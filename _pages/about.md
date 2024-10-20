@@ -8,7 +8,7 @@ I'm a forth year undergraduate student from [School of EECS](https://eecs.pku.ed
 
 I am very fortunate to be advised by [Prof. Zhiyuan Zhou](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. Peijun Guo](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Yale University.
 
-You can find my CV here: [Borui Li's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Borui Li's Curriculum Vitae](../assets/Curriculum_Vitae.pdf) and my transcript here:[Borui Li's transcript](https://github.com/Borui-li1001/BoruiLi.github.io/blob/master/files/borui's%20transcrip.pdf)
 
 [Email](liborui@mail.ustc.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) 
 ————————————————
