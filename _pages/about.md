@@ -10,10 +10,10 @@ I am very fortunate to be advised by [Prof. Zhiyuan Zhou](https://www.XXX.com/) 
 
 You can find my CV here: [Borui Li's Curriculum Vitae](../assets/Curriculum_Vitae.pdf) and my transcript here:[Borui Li's transcript](https://github.com/Borui-li1001/BoruiLi.github.io/blob/master/files/borui's%20transcrip.pdf)
 
-[Email](liborui@mail.ustc.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) 
-————————————————
+[Email](liborui@mail.ustc.edu.cn) / Wechat: lbr117747019
 
-Summer Research, 2024.07-present 
+
+Self-trapped Exciton Transport Microimaging and Modeling, 2024.07-present 
 ======
 I am very fortunate to be advised by [Prof. Peijun Guo]([https://scholar.google.com.sg/citations?user=MRcUU1gAAAAJ&hl=en](https://cde.nus.edu.sg/mse/staff/chen-jingsheng/)), National University of Singapore. 
 Here, I participate in a project to realize a 2D ferroelectric triode, which could be stacked on the Z-axis to continue the Moor's Law.
